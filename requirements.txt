@@ -1,0 +1,8 @@
+langgraph
+langchain
+python-dotenv
+GitPython
+langchain-mistralai
+langsmith
+tree-sitter 
+tree-sitter-language-pack
