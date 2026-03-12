@@ -134,6 +134,3 @@ The tool generates structured JSON with the following schema:
 - Batch size 9 typically offers optimal throughput (~2-2.5 minutes for ~100 APIs)
 - Rate limiting may occur with LLM API calls
 
-## License
-
-[Add your license here]
